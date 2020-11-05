@@ -1,6 +1,6 @@
 # musicapp
 
-> Nuxt.js project
+> A simple Nuxt.js itunes search app(under construction). 
 
 ## Build Setup
 
